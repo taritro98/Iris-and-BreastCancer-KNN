@@ -1,6 +1,7 @@
-# Iris-and-BreastCancer-KNN
+# Iris-and-Breast-Cancer-KNN
 Used sklearn library to perform KNN Implementation on the default Breast Cancer and Iris datasets. 
-Cross-Validation and Grid SearchCV is used. 
+K- Fold Cross Validation and Grid SearchCV is used to obtain a more accurate representation of
+its performance on real data. 
 
 Iris : Training Accuracy : 98%
        Test Accuracy : 100%
